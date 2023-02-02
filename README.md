@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connorleavitt
-- 👀 I’m interested in custom front-end web dev or fullstack work for SMBs 
+- 👀 I’m interested in fullstack dev
 
 <!---
 connorleavitt/connorleavitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
