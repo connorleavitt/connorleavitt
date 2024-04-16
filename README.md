@@ -4,16 +4,16 @@ Hi 👋 My name is Connor Leavitt
 Fullstack Developer
 -------------------
 
-I've spent the last couple of years learning the MERN stack looking to get more involved in the software development industry as a Fullstack dev! 
+I've spent the last couple of years learning to program with JS/TS, React, React Native, Postgres, Next, Expo, Node, and more.
 
-Professionally over the last 6 years, I've used my Engineering degree working at Fortune 100 companies and at budding new tech start-ups. In the past, I've helped to solve large logistical problems and hyper-focused operational issues. Now, I'm looking to pivot my career into software development over the long term! 
+Professionally over the last 8 years, I've used my Engineering degree working at Fortune 100 companies and at budding new tech start-ups. In the past, I've helped to solve large logistical problems and hyper-focused operational issues. Now, I'm looking to finding new ways to build software for myself and others.
 
 Personally, I am an avid traveller with a love for all things nature - I even have over 50 house plants! I'm always looking to combine my interests in tech (🖥️ 🧮 📚) and science (🪴 🗺️ ✈️ ♻️) to solve fun and challenging problems.
 
 *   🌍  I'm based in San Francisco, CA
 *   🖥️  See my portfolio at [My Portfolio](http://www.connorleavitt.com/)
 *   ✉️  You can contact me at [connorleavitt@gmail.com](mailto:connorleavitt@gmail.com)
-*   🧠  I'm learning Typescript and Tailwind CSS
+*   🧠  I'm currently learning Expo and Supabase
 
 ### Skills 
 <p align="left">
